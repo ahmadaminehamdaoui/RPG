@@ -1,9 +1,4 @@
-# ------ TO-DO ------
-# https://trello.com/b/Ga28mASW/rpg-game
 
-'''
-Jeu créé par Ahmad-Amine HAMDAOUI
-'''
 
 import pygame, sys, ctypes
 # ------------------- #
